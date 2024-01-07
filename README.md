@@ -9,14 +9,7 @@
 <img src="https://github.com/MGBrave/gamejs_detona_Ralph_Dio/blob/main/jsgame-detona-ralph/src/images/print.png?raw=true" width="400" /> 
  Professor Felipe
 
-
-
 <br>
-
-![card Badge](https://img.shields.io/badge/License-MIT-blue.svg)
-
-
-
 
 
 
@@ -52,6 +45,11 @@ Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar n
 Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
 
 imagens: **https://wallpapercave.com/** 
+
+<br>
+
+![card Badge](https://img.shields.io/badge/License-MIT-blue.svg)
+
 
 ---
 
