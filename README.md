@@ -6,7 +6,7 @@
 
           
 
-<img src="https://github.com/MGBrave/gamejs_detona_Ralph_Dio/blob/main/jsgame-detona-ralph/src/images/print.png?raw=true" width="400" /> 
+<img src="https://github.com/MGBrave/gamejs_detona_Ralph_Dio/blob/main/jsgame-detona-ralph/src/images/print.png?raw=true" width="500" /> 
  Professor Felipe
 
 <br>
@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/digitalinnovationone/jsgame-detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
+  <img src="https://github.com/MGBrave/gamejs_detona_Ralph_Dio/blob/main/jsgame-detona-ralph/src/images/ralph3.png?raw=true" alt="JSGame Detona Ralph Logo"  width="90">
 </p>
 
 Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um jogo divertido baseado no famoso filme "Detona Ralph". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
@@ -50,8 +50,12 @@ imagens: **https://wallpapercave.com/**
 
 ![card Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
+---
+
+Divirta-se jogando o **JSGame Detona Ralph** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/jsgame-detona-ralph) e deixar uma ⭐️ se você gostou do projeto!
 
 ---
+
 
 ## <img src="https://user-images.githubusercontent.com/60014891/168324047-c0ccd0c7-3a0e-45c1-98a1-50ca64b82012.png" alt="phone" width="40"/> Contato: 
 
@@ -61,7 +65,5 @@ imagens: **https://wallpapercave.com/**
 [![card Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)](mailto:mggeraldo@protonmail.com) 
 
 
-
-Divirta-se jogando o **JSGame Detona Ralph** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/jsgame-detona-ralph) e deixar uma ⭐️ se você gostou do projeto!
 
 
