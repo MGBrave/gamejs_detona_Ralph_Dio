@@ -4,22 +4,11 @@
 <br>
 <br>
 
-Construir uma Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS, as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
-
-<br>
-<br>
           
 
-<img src="https://github.com/MGBrave/desafio-css-dio/blob/main/desafio-01-css/images/landingpage.png?raw=true" width="400" /> 
-Protótipo: Professora Michele Ambrosio
+<img src="https://github.com/MGBrave/gamejs_detona_Ralph_Dio/blob/main/jsgame-detona-ralph/src/images/print.png?raw=true" width="400" /> 
+ Professor Felipe
 
-
-## <img src="https://user-images.githubusercontent.com/60014891/168324047-c0ccd0c7-3a0e-45c1-98a1-50ca64b82012.png" alt="phone" width="40"/> Contato: 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-geraldo/)](https://www.linkedin.com/in/marta-geraldo/ )
- [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=&link=https://github.com/martageraldo)](https://github.com/martageraldo)
-[![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=social-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)
-[![card Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)](mailto:mggeraldo@protonmail.com) 
 
 
 <br>
@@ -62,8 +51,19 @@ Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar n
 
 Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
 
+imagens: **https://wallpapercave.com/** 
+
 ---
+
+## <img src="https://user-images.githubusercontent.com/60014891/168324047-c0ccd0c7-3a0e-45c1-98a1-50ca64b82012.png" alt="phone" width="40"/> Contato: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-geraldo/)](https://www.linkedin.com/in/marta-geraldo/ )
+ [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=&link=https://github.com/martageraldo)](https://github.com/martageraldo)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=social-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)
+[![card Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)](mailto:mggeraldo@protonmail.com) 
+
+
 
 Divirta-se jogando o **JSGame Detona Ralph** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/jsgame-detona-ralph) e deixar uma ⭐️ se você gostou do projeto!
 
-imagens: **https://wallpapercave.com/** 
+
