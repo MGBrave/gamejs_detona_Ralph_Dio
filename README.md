@@ -1,4 +1,4 @@
-## Awesome JSGame Detona Ralph
+## JSGame Detona Ralph
 
 <p align="center">
   <img src="https://github.com/digitalinnovationone/jsgame-detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
